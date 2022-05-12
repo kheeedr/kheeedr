@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khedr</h1>
-<h3 align="center">Futter developer at Dipdux Analytica</h3>
+<h3 align="center">Futter developer at Dipdux Analytica</h3>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 
 - 🌱 I’m currently learning **Design Patterns and clean architecture**
 
