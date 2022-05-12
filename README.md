@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khedr</h1>
 <h3 align="center">Futter developer at Dipdux Analytica</h3>  
 
+
+
 - 🌱 I’m currently learning **Design Patterns and clean architecture**
 
 - 💬 Ask me about **Flutter and Native android ( kotlin & java ).**
