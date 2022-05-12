@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Design Patterns and clean architecture**
 
-- 💬 Ask me about **Flutter and Native android(kotlin & java).**
+- 💬 Ask me about **Flutter and Native android ( kotlin & java ).**
 
 - 📫 How to reach me **mkheeedr@gmail.com**
 
