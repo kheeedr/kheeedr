@@ -17,6 +17,7 @@
 
 ![Mohamed Khedr GitHub Stats](https://github-readme-stats.vercel.app/api?username=kheeedr&show_icons=true&theme=dark)
   
+![Mohamed Khedr GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kheeedr&show_icons=true&theme=dark)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
