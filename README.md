@@ -15,7 +15,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/m_kheeedr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kheeedr/)
 
-![Mohamed Khedr GitHub Stats](https://github-readme-stats.vercel.app/api?username=kheeedr&show_icons=false&theme=dark)
+![Mohamed Khedr GitHub Stats](https://github-readme-stats.vercel.app/api?username=kheeedr&show_icons=true&theme=dark)
   
 ![Mohamed Khedr GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kheeedr&show_icons=true&theme=dark)
 
