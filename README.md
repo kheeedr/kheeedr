@@ -11,7 +11,6 @@
 
 <h3 align="left"> Connect with me: </h3>
 
-[![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kheeedr)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/m_kheeedr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kheeedr/)
 
