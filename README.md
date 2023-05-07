@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Design Patterns & clean architecture**
+- 🌱 I’m currently learning **Design Patterns**
 
 - 💬 Ask me about **Flutter and Native android ( kotlin & java ).**
 
